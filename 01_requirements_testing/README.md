@@ -1,4 +1,4 @@
-Документация к тестовому стенду: ***foodbuzz_requirements.docx***;
+Требования: ***foodbuzz_requirements.docx***;
 
 Таблица с комментариями к анализируемым требованиям: ***foodbuzz_requirements_testing.xlsx***;
 

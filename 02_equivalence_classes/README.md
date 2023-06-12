@@ -1,4 +1,4 @@
-Документация к тестовым стендам: ***payform_documentation.docx*** и ***newsform_documentation.docx***;
+Требования: ***payform_documentation.docx*** и ***newsform_documentation.docx***;
 
 Таблицы классов эквивалентности, определённые для перечисленных выше форм: ***equivalence_classes_payform_newsform.xlsx***;
 
